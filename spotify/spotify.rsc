@@ -50,3 +50,4 @@ add address=144.121.235.208/29 list=Spotify
 add address=98.152.80.216/29 list=Spotify
 add address=208.116.169.120/29 list=Spotify
 add address=194.132.204.0/22 list=Spotify
+add address=78.31.12.0/24 list=Spotify
