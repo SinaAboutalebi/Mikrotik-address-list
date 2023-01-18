@@ -63,3 +63,4 @@ add address=65.152.168.64/29 list=Linkedin
 add address=92.71.21.224/27 list=Linkedin
 add address=66.151.157.240/29 list=Linkedin
 add address=128.177.130.120/29 list=Linkedin
+add address=13.107.42.0/24 list=Linkedin
