@@ -22,7 +22,6 @@ add address=141.193.88.0/22 list=Pinterest
 add address=151.101.0.0/16 list=Pinterest
 add address=95.100.0.0/16 list=Pinterest
 add address=23.46.0.0/16 list=Pinterest
-
 add address=23.195.44.0/22 list=Pinterest
 add address=23.36.224.0/20 list=Pinterest
 add address=54.225.200.0/22 list=Pinterest
